@@ -3,8 +3,8 @@
 
 ## LoJurn: Love Journal App
 
-End User License Agreement (EULA) for LoJurn
-Last Updated: September 22, 2025]
+# End User License Agreement (EULA) for LoJurn
+Last Updated: September 22, 2025
 
 Please read this End User License Agreement ("EULA") carefully before downloading, installing, accessing, or using the LoJurn mobile application ("App") operated by Long Journey Studios ("Developer," "us," "we," or "our").
 
