@@ -3,6 +3,73 @@
 
 ## LoJurn: Love Journal App
 
+End User License Agreement (EULA) for LoJurn
+Last Updated: September 22, 2025]
+
+Please read this End User License Agreement ("EULA") carefully before downloading, installing, accessing, or using the LoJurn mobile application ("App") operated by Long Journey Studios ("Developer," "us," "we," or "our").
+
+This EULA governs your use of the App. By downloading, installing, accessing, or using the App, you ("User," "you," or "your") agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not download, install, access, or use the App.
+
+1. Acceptance of EULA
+By using the App, you acknowledge that you have read, understood, and agree to be bound by this EULA. If you do not agree with this EULA, you must not use the App and must delete it from your device.
+
+2. License Grant
+Subject to your compliance with the terms of this EULA, Developer grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to download, install, and use the App for your personal, non-commercial use on a single mobile device owned or otherwise controlled by you.
+
+3. Restrictions on Use
+You agree not to, and you will not permit others to:
+
+License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose, or otherwise commercially exploit the App or make the App available to any third party.
+
+Modify, make derivative works of, disassemble, decrypt, reverse compile, or reverse engineer any part of the App.
+
+Remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) of Developer or its affiliates, partners, suppliers, or the licensors of the App.
+
+Use the App for any illegal purpose, or in violation of any local, state, national, or international law.
+
+4. Intellectual Property Rights
+The App, including without limitation all copyrights, patents, trademarks, trade secrets, and other intellectual property rights are, and shall remain, the sole and exclusive property of Developer. Nothing in this EULA grants you any rights to Developer's intellectual property except for the limited license granted above.
+
+5. Data Storage, Responsibility, and Backups
+a. Local Data Storage: You acknowledge and agree that all journal entries, photographs, prompts, and any other data you create or input into the App ("User Data") are stored solely on the local storage of your mobile device. The App does not automatically transmit, store, or back up your User Data to any external servers or cloud services managed by Developer.
+
+b. User Sole Responsibility for Data: You are solely and exclusively responsible for your User Data, including its creation, maintenance, accuracy, legality, and for ensuring you have the right to use it within the App.
+
+c. Risk of Data Loss: You understand and agree that User Data stored locally on your device is susceptible to loss or corruption due to various factors, including, but not limited to, device malfunction, damage, loss or theft of your device, operating system failures or updates, software bugs, accidental deletion by you or other users of your device, or uninstallation of the App.
+
+d. Backup Responsibility: Developer strongly advises and encourages you to regularly and diligently back up your User Data using the export features provided within the App (such as PDF export) or by using other backup methods available for your device. You are solely responsible for creating and maintaining backups of your User Data. Developer shall have no responsibility or liability for your failure to back up your User Data.
+
+e. Disclaimer of Liability for User Data: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DEVELOPER EXPRESSLY DISCLAIMS ANY AND ALL LIABILITY FOR ANY LOSS, CORRUPTION, DAMAGE, OR UNAUTHORIZED ACCESS TO YOUR USER DATA, HOWSOEVER CAUSED, INCLUDING BUT NOT LIMITED TO DATA LOSS ARISING FROM YOUR USE OR INABILITY TO USE THE APP, DEVICE FAILURE, APP MALFUNCTION, OR ANY OTHER CAUSE. YOU AGREE THAT YOU USE THE APP AND RELY ON LOCAL DATA STORAGE AT YOUR SOLE RISK.
+
+6. Disclaimer of Warranties
+THE APP IS PROVIDED TO YOU "AS IS" AND "AS AVAILABLE" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, DEVELOPER, ON ITS OWN BEHALF AND ON BEHALF OF ITS AFFILIATES AND ITS AND THEIR RESPECTIVE LICENSORS AND SERVICE PROVIDERS, EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE APP, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND WARRANTIES THAT MAY ARISE OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE, OR TRADE PRACTICE.
+
+WITHOUT LIMITATION TO THE FOREGOING, DEVELOPER PROVIDES NO WARRANTY OR UNDERTAKING, AND MAKES NO REPRESENTATION OF ANY KIND THAT THE APP WILL MEET YOUR REQUIREMENTS, ACHIEVE ANY INTENDED RESULTS, BE COMPATIBLE OR WORK WITH ANY OTHER SOFTWARE, APPLICATIONS, SYSTEMS, OR SERVICES, OPERATE WITHOUT INTERRUPTION, MEET ANY PERFORMANCE OR RELIABILITY STANDARDS, OR BE ERROR-FREE, OR THAT ANY ERRORS OR DEFECTS CAN OR WILL BE CORRECTED.
+
+7. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL DEVELOPER OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, LOSS OF PRIVACY ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE APP, THIRD-PARTY SOFTWARE AND/OR THIRD-PARTY HARDWARE USED WITH THE APP, OR OTHERWISE IN CONNECTION WITH ANY PROVISION OF THIS EULA), EVEN IF DEVELOPER OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF THE REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+
+Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+
+Developer's total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) shall not exceed the amount of fifty CAD dollars ($50.00) or the amount you paid for the App, whichever is less.
+
+8. Termination
+This EULA is effective until terminated by you or Developer. Developer may, in its sole discretion, at any time and for any or no reason, suspend or terminate this EULA with or without prior notice. This EULA will terminate immediately, without prior notice from Developer, in the event that you fail to comply with any provision of this EULA. You may also terminate this EULA by deleting the App and all copies thereof from your mobile device. Upon termination of this EULA, you shall cease all use of the App and delete all copies of the App from your mobile device. Termination will not limit any of Developer's rights or remedies at law or in equity. Sections 4, 5, 6, 7, 9, and 10 shall survive any termination of this EULA.
+
+9. Governing Law
+This EULA and your use of the App are governed by and construed in accordance with the laws of Saskatchewan, Canada, without regard to its conflict of law principles.
+
+10. Entire Agreement & Severability
+This EULA, together with the Privacy Policy (which should be a separate document linked within the App and Play Store listing), constitutes the entire agreement between you and Developer regarding your use of the App and supersedes all prior and contemporaneous written or oral agreements.
+
+If any provision of this EULA is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
+
+11. Changes to this EULA
+Developer reserves the right, at its sole discretion, to modify or replace this EULA at any time. If a revision is material, we will provide at least 30 days notice prior to any new terms taking effect, possibly through an in-app notification or by updating the "Last Updated" date. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our App after any revisions become effective, you agree to be bound by the revised terms.
+
+12. Contact Information
+If you have any questions about this EULA, please contact Developer at: long.journey.studios@gmail.com
+
 # Privacy Policy for LoJurn
 
 **Effective Date:** 2025-09-15
